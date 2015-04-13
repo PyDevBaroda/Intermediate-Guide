@@ -1,7 +1,7 @@
 # Intermediate-Guide
 
 
-This repo contains few tutorials on the basics of Python for Intermediate Learners.
+This repo contains few tutorials on Python for Intermediate Learners.
 
 Hello Pythonistas !
 
