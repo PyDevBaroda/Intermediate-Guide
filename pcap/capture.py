@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''  Capture.py
   
-  Created by Harsh Dattani <github.com/harhsdattani>
+  Created by Harsh Dattani <github.com/harshdattani>
   D.T. 13/04/205
   
   This program is free software; you can redistribute it and/or modify
