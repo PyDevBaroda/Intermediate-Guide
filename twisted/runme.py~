@@ -1,0 +1,10 @@
+from twisted.web.server import Site
+from twisted.web.static import File
+from twisted.internet import reactor
+
+resource = File('./tmp') #nstance of the File resource
+site_factory = Site(resource) #create an instance of the Site
+reactor.listenTCP(8880, site_factory) #run factory to a TCP port
+print 'Server running on port 8880 and ip 0.0.0.0'
+reactor.run()
+
